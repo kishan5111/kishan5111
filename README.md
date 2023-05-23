@@ -1,15 +1,20 @@
 
-![Banner](https://raw.githubusercontent.com/kishan5111/kishan5111/main/banner.png
+![Banner](https://raw.githubusercontent.com/kishan5111/kishan5111/main/banner.png)
 
 # Hey there! 👋 I'm Kishan, a biotech graduate who has unlocked the secrets of coding and embarked on a thrilling journey through the realms of data analytics, artificial intelligence, and the captivating world of programming! 🧪🔬💻
 
 ## About Me
 
 🧪 **Bio-Tech to Bit-Tech:** From test tubes to keyboards, I've traded my lab coat for a developer cape, diving headfirst into the vast world of coding.  
+
 🔭 **Current Quest:** Currently, I'm immersed in crafting enchanting projects that blend the powers of code and data, leaving a trail of awe-inspiring web applications in my wake.   
+
 🌱 **Boundless Curiosity:** The flame of curiosity burns within me, igniting an insatiable thirst for knowledge in the captivating domains of AI, ML, and deep learning.  
+
 🤝 **Seeking Collaborators:** I eagerly seek fellow adventurers to join forces, sharing our knowledge and pooling our talents to create groundbreaking projects that push the boundaries of what is possible.  
-🧠 **Mindful Wizardry:** I'm diligently honing my skills in the realms of AI, ML, and deep learning, unraveling the mysteries of intelligent algorithms that can shape the world around us.  
+
+🧠 **Mindful Wizardry:** I'm diligently honing my skills in the realms of AI, ML, and deep learning, unraveling the mysteries of intelligent algorithms that can shape the world around us.
+
 🔥 **Up for Challenges:** I thrive on technically challenging and exciting projects, always eager to push the boundaries of what's possible.  
 
 
@@ -17,8 +22,11 @@
 ## Courses and Enchantments
 
 • 📊 **Google Data Analytics Course:** I've harnessed the ancient knowledge of data analysis to decipher the secrets hidden within complex datasets.  
-• 💫 **CS50: Introduction to Computer Science:** I've embarked on a mystical journey through the realms of computer science, mastering the sacred arts of algorithms and problem-solving.   
-• 🌌 **CS50: Introduction to AI:** I've delved into the ethereal realm of artificial intelligence, exploring the enigmatic ways machines mimic human intellect and solve the unsolvable.   
+
+• 💫 **CS50: Introduction to Computer Science:** I've embarked on a mystical journey through the realms of computer science, mastering the sacred arts of algorithms and problem-solving. 
+
+• 🌌 **CS50: Introduction to AI:** I've delved into the ethereal realm of artificial intelligence, exploring the enigmatic ways machines mimic human intellect and solve the unsolvable. 
+
 • 🔧 **Skills:** My enchanted toolkit boasts spells in C, Python, Flask, CSS, JavaScript, HTML, SQL, Visual Studio Code, Git, GitHub, Tableau, Excel, Docker, and the enchanting art of Data Structures and Algorithms (DSA).
 
 ## Projects and Contributions
