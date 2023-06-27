@@ -1,7 +1,7 @@
 
 ![Banner](https://raw.githubusercontent.com/kishan5111/kishan5111/main/banner.png)
 
-# Hey there! 👋 I'm Kishan, a biotech graduate exploring the fascinating world of deep learning. I'm currently diving into frameworks, implementing models, and solving real-world problems as I advance my skills in AI.  Join me on this exciting learning journey!🧪🔬💻
+# Hey there! 👋 I'm Kishan, a biotech graduate turned data enthusiast with a passion for deep learning. Currently diving into frameworks, implementing models, and  solving real-world problems as I advance my skills in AI.  Join me on this exciting learning journey!🧪🔬💻
 
 ## About Me
 
